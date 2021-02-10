@@ -1,12 +1,30 @@
-Follow me on [Twitter](https://twitter.com/GianniDalerta).
+<div align="center">
 
-# Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
+<!-- title -->
 
-Table of contents
+<!--lint ignore no-dead-urls-->
+# Awesome DeFi [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<!-- subtitle -->
+
+A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software. Forked from [github.com/gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft)
+
+<!-- image -->
+
+<!-- <a href="" target="_blank" rel="noopener noreferrer">
+  <img src="" />
+</a> -->
+
+</div>
+
+<!-- TOC -->
+
+Contents
 =================
 
 <!--ts-->
+* [Overview](#overview)
+* [Interesting Applications](#interesting-applications)
 * [Ethereum](#ethereum)
 * [NFT Commmunity](#nft-commmunity)
   * [Discord](#discord)
@@ -36,6 +54,15 @@ Table of contents
 * [NFT Wallets](#nft-wallets)
 * [Framework, blockchain orchestration, testing, and command line interface](#framework-blockchain-orchestration-testing-and-command-line-interface)
 <!--te-->
+
+
+## Overview
+- [The Non-Fungible Token Bible: Everything you need to know about NFTs
+](https://opensea.io/blog/guides/non-fungible-tokens/)
+
+## Interesting Applications
+- [This artwork is always on sale](https://thisartworkisalwaysonsale.com/), [Medium Post](https://medium.com/@simondlr/this-artwork-is-always-on-sale-92a7d0c67f43), based off of the [Harberger Tax](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6)
+- [Async Art](https://async.art/) - Programmable Art
 
 ## Ethereum
 - [ERC-721: Non-fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
@@ -181,6 +208,7 @@ Table of contents
 - [Trust Wallet](https://trustwalletapp.com/)
 - [DexWallet](https://www.dexwallet.io/)
 - [CoinBase Wallet](https://wallet.coinbase.com/)
+- [Rainbow](https://rainbow.me/)
 
 ## Framework, blockchain orchestration, testing, and command line interface.
 - [Clevis](https://github.com/austintgriffith/clevis)
